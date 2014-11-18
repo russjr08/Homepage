@@ -1,0 +1,38 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500);
+
+body {
+    background-color: rgb(44,62,80);
+    font-family: 'Roboto';
+}
+
+#content {
+    text-align: center;
+    padding-top: 5%;
+    color: #FFFFFF; 
+}
+
+#projects a {
+    display: block;
+    color: #FFFFFF;
+}
+
+.project {
+    display: inline-block;
+    width: 200px;
+}
+
+#justdoit {
+    padding-left: 20%;
+    float: left;
+}
+
+#auth {
+    float: center;
+}
+
+#konverse {
+    padding-right: 20%;
+    float: right;
+}
+
+
