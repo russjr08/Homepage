@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,500);
 
 body {
-    background-color: rgb(44,62,80);
+    background-color: rgb(47,47,47);
     font-family: 'Roboto';
 }
 
@@ -11,9 +11,12 @@ body {
     color: #FFFFFF; 
 }
 
+a {
+    color: #FFFFFF;
+}
+
 #projects a {
     display: block;
-    color: #FFFFFF;
 }
 
 .project {
